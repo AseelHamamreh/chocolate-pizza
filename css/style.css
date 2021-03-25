@@ -1,0 +1,114 @@
+
+body{
+    width: 1000px;
+}
+
+/* Header design/////////////////////////////  */
+
+#logo{
+    float: left;
+}
+
+header nav {
+    width: 30%;
+    float: right;
+}
+header nav img{
+    /* float: right; */
+    padding: 2px;
+    margin: 0px;
+}
+#header{
+    color:rgb(7, 6, 6, 0.35) ;
+}
+header figcaption p, h2{
+    margin:0px ;
+    width: 70%;
+}
+/* main design/////////////////////////////  */
+
+hr{
+    border-top: 1px dashed grey;
+}
+#mainImg{
+    width: 1000px;
+}
+ 
+#meneuList1 {
+width:50%;
+float: left;
+}
+
+#meneuList2  {
+    width: 50%;
+    background-image: url(./img/#listImg);
+}
+
+/* print icon/////////////////// */
+#nav2 {
+    float: right;
+    padding: 20px;
+}
+
+nav figcaption{
+    color:rgb(7, 6, 6, 0.35);
+}
+
+/* printicon////////////////////// */
+
+/* paragraph://////////////*/
+ 
+
+.mainPa{
+    width: 100%;
+    color: rgb(47, 34, 121);
+}
+
+#listImg{
+    width: 100%;
+}
+
+
+/* paragraph://////////////*/
+
+/* beforeTheFooter://////////////////////// */
+
+h3{
+width: 22%;
+margin-top: 30px;
+padding: 10px 5px 10px 5px;
+text-align: center;
+float: right;
+color: white;
+border: 3px solid rgb(145, 57, 57);  
+background-color: rgb(145, 57, 57);
+}
+#van img{
+    width: 100px;
+    float: left;
+    padding: 20px;
+}
+
+#van h2,p{
+    width: 620px;
+    
+}
+#van h2{
+    padding-top: 30px;
+}
+
+footer p{
+    color: rgb(7, 6, 6, 0.35);
+}
+
+/* beforeTheFooter://////////////////////// */
+
+/* footer:////////////////// */
+
+footer {
+text-align: center;
+}
+footer p{
+    width: 1000px;
+}
+
