@@ -8,7 +8,9 @@ body{
 #logo{
     float: left;
 }
-
+header p{
+    font-size: 8px;
+}
 header nav {
     width: 30%;
     float: right;
@@ -20,11 +22,28 @@ header nav img{
 }
 #header{
     color:rgb(7, 6, 6, 0.35) ;
+    margin: 0px;
+    font-size: 10px;
+}
+main h1{
+    margin-bottom: 0px;
 }
 header figcaption p, h2{
     margin:0px ;
     width: 70%;
 }
+
+#meneuList1{
+    background-image: url(/img/list-bg.png);
+    padding-bottom: 30px;
+    width:50%;
+float: left;
+}
+#meneuList2  {
+    width: 50%;
+    float: right;
+}
+
 /* main design/////////////////////////////  */
 
 hr{
@@ -34,15 +53,9 @@ hr{
     width: 1000px;
 }
  
-#meneuList1 {
-width:50%;
-float: left;
-}
 
-#meneuList2  {
-    width: 50%;
-    background-image: url(./img/#listImg);
-}
+
+
 
 /* print icon/////////////////// */
 #nav2 {
@@ -96,6 +109,7 @@ background-color: rgb(145, 57, 57);
 #van h2{
     padding-top: 30px;
 }
+
 
 footer p{
     color: rgb(7, 6, 6, 0.35);
